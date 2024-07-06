@@ -8,6 +8,7 @@ y
 ellen + ellen - 4
 y - ellen
 x -2
+<<<<<<< HEAD
 chimwemwe <- 7 + ellen
 chimwemwe
 chikumbutso <- chimwemwe - 5
@@ -18,3 +19,10 @@ kids <- chimwemwe + chikumbutso + chifuniro
 kids
 jay = kids + ellen 
 jay
+=======
+ggg
+hhh
+iii
+mmm
+mmm
+>>>>>>> 64cb9b3509302b666f8c590b577a459ad93c9e01
