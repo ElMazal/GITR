@@ -8,4 +8,13 @@ y
 ellen + ellen - 4
 y - ellen
 x -2
-
+chimwemwe <- 7 + ellen
+chimwemwe
+chikumbutso <- chimwemwe - 5
+chikumbutso
+chifuniro <- chikumbutso - 3
+chifuniro
+kids <- chimwemwe + chikumbutso + chifuniro
+kids
+jay = kids + ellen 
+jay
