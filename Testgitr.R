@@ -1,5 +1,7 @@
 1+1
-ellen <- 2
+ellen <- 4
 ellen + ellen
 x <-ellen - 1
 x + 1 
+y <- (ellen)^2
+y
