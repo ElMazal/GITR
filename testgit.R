@@ -18,4 +18,8 @@ kids <- chimwemwe + chikumbutso + chifuniro
 kids
 jay = kids + ellen 
 jay
+<<<<<<< HEAD
 
+=======
+it is here!
+>>>>>>> 212079db394e508cd642cb235018180d9965b8bc
